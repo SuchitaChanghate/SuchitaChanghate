@@ -5,7 +5,7 @@ Computer Engineer specializing in **Machine Learning, Deep Learning, and Generat
 
 📧 **Email:** suchitachanghate@gmail.com  
 💻 **GitHub:** [SuchitaChanghate](https://github.com/SuchitaChanghate)  
-🔗 **LinkedIn:** [Connect with me](https://www.linkedin.com/)
+🔗 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/suchita-changhate-1b1238292/)
 
 ---
 
