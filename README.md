@@ -1,97 +1,100 @@
+# Suchita Changhate
+### AI/ML Engineer | Generative AI | Deep Learning | LLM Applications
 
-# Hi, I'm Suchita Changhate 👋
+Computer Engineer specializing in **Machine Learning, Deep Learning, and Generative AI**, with hands-on experience developing intelligent applications, multimodal classification systems, and Retrieval-Augmented Generation (RAG) pipelines. Interested in building reliable, scalable AI solutions that address real-world problems.
 
-### AI/ML Engineer | Generative AI | Deep Learning | RAG
-
-I'm a Computer Engineering graduate (2026) passionate about building practical AI solutions using **Machine Learning, Deep Learning, Large Language Models (LLMs), and Retrieval-Augmented Generation (RAG)**.
-
-- 🔭 Working on AI-powered applications, intelligent agents, and LLM-based systems.
-- 🧠 Interested in **AI Engineering, Computer Vision, NLP, RAG, and Semantic Search**.
-- 🌱 Continuously learning about AI agents, model evaluation, and scalable AI applications.
-- 💡 I enjoy transforming complex problems into practical, data-driven solutions.
-- 📫 Reach me at: **suchitachanghate@gmail.com**
-- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/) | [GitHub](https://github.com/SuchitaChanghate)
+📧 **Email:** suchitachanghate@gmail.com  
+💻 **GitHub:** [SuchitaChanghate](https://github.com/SuchitaChanghate)  
+🔗 **LinkedIn:** [Connect with me](https://www.linkedin.com/)
 
 ---
 
-## 🚀 Featured Projects
+## Technical Skills
 
-### 🧠 HEALTHAI — Alzheimer's Disease Detection
-**Python · PyTorch · Vision Transformer · Flask · React · MongoDB**
-
-- Developed a multimodal deep learning system combining MRI brain scans and clinical data.
-- Achieved **98% test accuracy** across CN, MCI, and AD classification categories.
-- Integrated Grad-CAM and attention-based heatmaps for model interpretability.
-- Built a full-stack application with REST APIs, prediction history, analytics, and JWT authentication.
-
-🔗 [View Project](https://github.com/SuchitaChanghate/alzheimer-disease-detection)
-
-### 🤖 AI Career Agent
-**Python · FastAPI · LLMs · React · Prompt Engineering**
-
-- Developing an AI-powered career assistant for resume analysis and job-description matching.
-- Building features for skill-gap analysis, interview question generation, and answer evaluation.
-- Exploring tool-based AI agents and structured LLM workflows.
-
-🔗 [View Project](https://github.com/SuchitaChanghate/AI-Career-Agent-)
-
-### 📄 AI Resume Parser
-**Python · LLM APIs · Prompt Engineering**
-
-- Built an application to extract structured candidate information from unstructured resumes.
-- Designed prompts to organize skills, education, experience, projects, and qualifications.
-- Developed reusable Python functions for structured resume processing.
-
-### 🔎 DSA YouTube Transcript RAG Search
-**Python · RAG · Qdrant · SentenceTransformers · Groq LLMs**
-
-- Built a semantic search system across **70+ DSA YouTube video transcripts**.
-- Implemented chunking, 384-dimensional embeddings, and timestamp-aware retrieval.
-- Used metadata filtering and RAG evaluation to support relevant, grounded responses.
+- **Programming Languages:** Python, C++, SQL, JavaScript
+- **Machine Learning & Deep Learning:** PyTorch, CNNs, Vision Transformers (ViT), Image Classification, Feature Extraction, Model Evaluation
+- **Generative AI & NLP:** Large Language Models (LLMs), Prompt Engineering, Retrieval-Augmented Generation (RAG), Semantic Search, SentenceTransformers
+- **AI Infrastructure & Frameworks:** FastAPI, Flask, REST APIs, Qdrant, Groq LLM APIs
+- **Data Analytics:** Pandas, NumPy, Excel, Tableau, Data Cleaning, Data Analysis, Data Visualization
+- **Databases:** MySQL, MongoDB
+- **Frontend Development:** React, HTML, CSS
+- **Developer Tools:** Git, GitHub, Jupyter Notebook
 
 ---
 
-## 🛠️ Technical Skills
+## Featured Projects
 
-**Programming:** Python, C++, SQL, JavaScript, HTML, CSS
+### 1. HEALTHAI — Multimodal Alzheimer's Disease Detection
+**Tech Stack:** Python, PyTorch, Vision Transformer, Flask, React, MongoDB
 
-**AI & Machine Learning:** Machine Learning, Deep Learning, CNNs, Vision Transformers (ViT), Image Classification, Feature Extraction, Data Preprocessing, Model Evaluation
+- Developed a multimodal deep learning system combining MRI brain imaging and clinical data for Alzheimer's disease classification.
+- Achieved **98% test accuracy** across cognitively normal (CN), mild cognitive impairment (MCI), and Alzheimer's disease (AD) categories.
+- Implemented Vision Transformer-based image feature extraction and an MLP for clinical feature processing.
+- Integrated Grad-CAM and attention-based heatmaps to improve model interpretability.
+- Developed a full-stack application with REST APIs, JWT authentication, prediction history, and analytics.
 
-**Generative AI & NLP:** LLMs, Prompt Engineering, Retrieval-Augmented Generation (RAG), Semantic Search, SentenceTransformers, Qdrant
+[View Repository](https://github.com/SuchitaChanghate/alzheimer-disease-detection)
 
-**Frameworks & APIs:** PyTorch, Flask, FastAPI, REST APIs, React, LLM APIs
+### 2. AI-Powered DSA Transcript Search & RAG System
+**Tech Stack:** Python, RAG, Qdrant, SentenceTransformers, Groq LLMs
 
-**Data Analytics:** Pandas, NumPy, Excel, Tableau, Data Cleaning, Data Analysis, Data Visualization
+- Developed a semantic search system across **70+ DSA YouTube video transcripts**.
+- Implemented transcript chunking, 384-dimensional embeddings, and timestamp-aware retrieval.
+- Integrated metadata filtering and payload indexing for efficient contextual retrieval.
+- Applied RAG evaluation techniques to assess retrieval relevance and support grounded response generation.
 
-**Databases:** MySQL, MongoDB
+### 3. AI Resume Parser
+**Tech Stack:** Python, LLM APIs, Prompt Engineering
 
-**Tools:** Git, GitHub, Jupyter Notebook
+- Developed an AI-powered application to extract structured candidate information from unstructured resumes.
+- Designed prompts to identify skills, education, experience, projects, and qualifications.
+- Implemented reusable Python functions to automate resume processing and generate structured outputs.
 
-**Core CS:** Data Structures & Algorithms, Object-Oriented Programming, DBMS, Operating Systems
+### 4. AI Career Agent
+**Tech Stack:** Python, FastAPI, LLMs, React, Prompt Engineering
+
+- Developing an AI-powered career assistant focused on resume analysis and job-description matching.
+- Working on skill-gap identification, interview question generation, and answer evaluation.
+- Exploring tool-based AI agents and structured LLM workflows for career assistance.
+
+[View Repository](https://github.com/SuchitaChanghate/AI-Career-Agent-)
 
 ---
 
-## 🎓 Education
+## Professional Experience
 
-**B.E. in Computer Engineering**  
+**Research Intern**  
+Modern Education Society's Wadia College of Engineering, Pune  
+*January 2025 – February 2025*
+
+- Developed a CNN-based plant disease detection system achieving **over 90% accuracy** across multiple disease categories.
+- Applied data preprocessing and augmentation techniques, increasing dataset size by approximately 2×.
+- Evaluated model performance using accuracy, precision, recall, and F1-score.
+
+---
+
+## Education
+
+**Bachelor of Engineering in Computer Engineering**  
 Modern Education Society's Wadia College of Engineering, Pune  
 2022–2026 | **SGPA: 8.95/10**
 
 ---
 
-## 🏆 Certifications
+## Certifications
 
 - Artificial Intelligence — Infosys Foundation Finishing School
 - Git Training Certificate — EduPyramids, SINE, IIT Bombay
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SuchitaChanghate&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SuchitaChanghate&show_icons=true&theme=default&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SuchitaChanghate&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SuchitaChanghate&layout=compact&theme=default&hide_border=true)
 
 ---
 
-⭐ *Building, learning, and experimenting with AI—one project at a time.*
+*Focused on building practical AI systems through experimentation, engineering, and continuous learning.*
+
